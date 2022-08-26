@@ -1,5 +1,5 @@
 # Six Kalma App
-This is Six kalma app using ViewPager and FragmentPagerAdapter.
+It's a Six kalma android app using ViewPager and FragmentPagerAdapter.
 
 ## Screenshots
 <p float="left">
