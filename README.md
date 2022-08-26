@@ -1,7 +1,17 @@
-# SixKalmaApp
+# Six Kalma App
 This is Six kalma app using ViewPager and FragmentPagerAdapter.
 
-![First Screen](https://user-images.githubusercontent.com/45339238/186822903-bff96f73-a0c9-4d10-a3c6-2f04755f7d37.png)
+## Screenshots
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/45339238/186822903-bff96f73-a0c9-4d10-a3c6-2f04755f7d37.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/45339238/186824717-cfcaea20-3236-4184-8f2f-f06b166ef577.png" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/45339238/186824832-b0bbabcb-76d9-4594-bf52-598b138aed93.png" width="300" />
+</p>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/45339238/186824925-36d1bbec-810a-4f46-b8bc-6fd4085a604d.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/45339238/186825011-68a63d6a-45d8-4117-93cd-d9597820571f.png" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/45339238/186825026-59d497af-0c96-4302-bb7e-404d9dc7a37c.png" width="300" />
+</p>
 
 ## Application Features & Implements
 - ViewPager
