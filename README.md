@@ -1,6 +1,12 @@
 # SixKalmaApp
 This is Six kalma app using ViewPager and FragmentPagerAdapter.
 
+![First Screen](https://user-images.githubusercontent.com/45339238/186822903-bff96f73-a0c9-4d10-a3c6-2f04755f7d37.png)
+
+## Application Features & Implements
+- ViewPager
+- FragmentPagerAdapter
+
 How to use this repository
 --------------
 - Fork this repository to your Github account.
